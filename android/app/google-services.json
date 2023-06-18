@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "688958178736",
+    "project_id": "lotracker-f4942",
+    "storage_bucket": "lotracker-f4942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688958178736:android:2848d83594a9f253004275",
+        "android_client_info": {
+          "package_name": "com.example.lo_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688958178736-84648jljb0tqbi1qdhfj3e30oijlt7nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hWgsS8HsjXD2XruBz4sohyJK_McNyP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688958178736-84648jljb0tqbi1qdhfj3e30oijlt7nd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "688958178736-vne0k6j997svkhgg4vqs4stc9tv4l9m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lotracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688958178736:android:72bc65ca8a0e4ea2004275",
+        "android_client_info": {
+          "package_name": "com.example.lotracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688958178736-84648jljb0tqbi1qdhfj3e30oijlt7nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hWgsS8HsjXD2XruBz4sohyJK_McNyP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688958178736-84648jljb0tqbi1qdhfj3e30oijlt7nd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "688958178736-vne0k6j997svkhgg4vqs4stc9tv4l9m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lotracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
