@@ -5,12 +5,15 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:line_awesome_flutter/line_awesome_flutter.dart';
 
 class CustomToolbar extends StatelessWidget {
-  const CustomToolbar({super.key});
+  CustomToolbar(this.toolbarTitle, {super.key});
+
+  String toolbarTitle;
 
   @override
   Widget build(BuildContext context) {
     return Container(
       decoration: BoxDecoration(
+        color: Colors.white,
         border: Border(
           bottom: BorderSide(
             color: Colors.black12,
@@ -37,7 +40,7 @@ class CustomToolbar extends StatelessWidget {
             ),
             Expanded(
               child: Text(
-                "REGISTER",
+                toolbarTitle,
                 textAlign: TextAlign.center,
                 style: GoogleFonts.lato(
                   fontSize: 20,
